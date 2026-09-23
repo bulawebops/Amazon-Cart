@@ -1,1 +1,1 @@
-# js-amazon-cart-app
+## Amazon Shopping Cart
